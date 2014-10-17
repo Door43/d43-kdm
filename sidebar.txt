@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kdm:home|Door43 (kdm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kdm|d43-kdm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kdm/archive/master.zip|d43-kdm.zip]]
+
+**Recent Changes**
+{{changes>ns = kdm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kdm|Ethnologue data]]
+
